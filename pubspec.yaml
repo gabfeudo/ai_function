@@ -1,13 +1,10 @@
 name: ai_function
-description: A starting point for Dart libraries or applications.
+description: Defines the annotations used by ai_function_generator to create code automatically with GPT-4.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/gabfeudo/ai_function
 
 environment:
-  sdk: '>=2.19.6 <3.0.0'
-
-# dependencies:
-#   path: ^1.8.0
+  sdk: ">=2.19.6 <3.0.0"
 
 dev_dependencies:
   lints: ^2.0.0
