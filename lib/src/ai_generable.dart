@@ -1,0 +1,3 @@
+class AiGenerable {
+  const AiGenerable();
+}
